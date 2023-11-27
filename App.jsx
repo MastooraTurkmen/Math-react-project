@@ -94,7 +94,7 @@ export default function App() {
             timeOut = setTimeout(() => {
                 setRecentCorrectAnswer(false)
                 getNewProblem()
-            }, 2000)
+            }, 5000)
         }
         return () => clearTimeout(timeOut)
     }, [recentCorrectAnswer])
@@ -104,7 +104,7 @@ export default function App() {
         if (recentStatusChange) {
             timeOut = setTimeout(() => {
                 setRecentStatusChange(false)
-            }, 2000)
+            }, 5000)
         }
         return () => clearTimeout(timeOut)
     }, [recentStatusChange])
