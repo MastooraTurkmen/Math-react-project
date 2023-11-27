@@ -30,7 +30,24 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](image-2.png)
 
-Oh wow, you got it the answer is **13**
+Oh wow, you got it the answer is **_13_**
 
 ![Alt text](image-1.png)
+
+2. What would be the answer? 
+  1. (5 * 8) = ?
+
+![Alt text](image-3.png)
+
+  1. Is it _**14**_? 
+  ![Alt text](image-4.png)
+  oh, no. It was Too Low. Just think
+
+  2. Is it _**85**_?
+  ![Alt text](image-5.png)
+  oh, no. It was _Too High_
+
+  3. Is it _**40**_?
+  ![Alt text](image-5-1.png)
+  oh, yaaayeee. You got it, your answer is correct. :-)
 
