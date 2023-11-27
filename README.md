@@ -23,30 +23,30 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 > Math O Matic a wonderful site, for your children who can answer the question and become first at class :)
 
-![Alt text](image.png)
+![Alt text](./images/image.png)
 
 1. What would be the answer? 
   + (9 + 4) = ?
-![Alt text](image-2.png)
+![Alt text](./images/image-2.png)
 
 Oh wow, you got it the answer is **_13_** 🥳.
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 2. What would be the answer? 
   +  (5 * 8) = ?🤔
 
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 
   1. Is it _**14**_? 🤔
-  ![Alt text](image-4.png)
+  ![Alt text](./images/image-4.png)
   oh, no. It was Too Low. Just think 😲
 
   2. Is it _**85**_? 🤔
-  ![Alt text](image-5.png)
+  ![Alt text](./images/image-5.png)
   oh, no. It was _Too High_ 😲
 
   3. Is it _**40**_? 🤔
-  ![Alt text](image-6.png)
+  ![Alt text](./images/image-6.png)
   oh, yaaayeee. You got it, your answer is correct 🥳. :-)
 
 
