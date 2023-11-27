@@ -1,5 +1,7 @@
 # Math-o-Matic
 
+> https://math-o-matic.netlify.app/
+
 Quick start:
 
 ```
