@@ -2,6 +2,8 @@
 
 > https://math-o-matic.netlify.app/
 
+> Math-O-Matic is a wonderful site, for your children who can answer the questions and become first in class 😻💪:)
+
 Quick start:
 
 ```
@@ -19,7 +21,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Test Your Children Math Knowledge
 
-> Math O Matic a wonderful site, for your children who can answer the question and become first at class 😻💪:)
 
 ![Alt text](./images/image.png)
 
@@ -37,11 +38,11 @@ Oh wow, you got it the answer is **_13_** 🥳.
 
   1. Is it _**14**_? 🤔
   ![Alt text](./images/image-4.png)
-  oh, no. It was Too Low. Just think 😲
+  Oh, no. It was Too Low. Just think 😲
 
   2. Is it _**85**_? 🤔
   ![Alt text](./images/image-5.png)
-  oh, no. It was _Too High_ 😲
+  Oh, no. It was _Too High_ 😲
 
   3. Is it _**40**_? 🤔
   ![Alt text](./images/image-6.png)
