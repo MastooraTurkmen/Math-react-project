@@ -1,4 +1,4 @@
-# co83445ef93bfb5bd4f16178c
+# Math-o-Matic
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
