@@ -27,15 +27,13 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 1. What would be the answer? 
   + (9 + 4) = ?
-
 ![Alt text](image-2.png)
 
 Oh wow, you got it the answer is **_13_** 🥳.
-
 ![Alt text](image-1.png)
 
 2. What would be the answer? 
-  1. (5 * 8) = ?🤔
+  +  (5 * 8) = ?🤔
 
 ![Alt text](image-3.png)
 
