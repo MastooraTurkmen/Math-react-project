@@ -10,3 +10,10 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
+
+
+## Test Your Children Math Knowledge
+
+> Math O Matic a wonderful site, for your children who can answer the question and become first at class :)
+
