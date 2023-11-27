@@ -48,6 +48,8 @@ Oh wow, you got it the answer is **_13_** 🥳.
   oh, no. It was _Too High_ 😲
 
   3. Is it _**40**_? 🤔
-  ![Alt text](image-5-1.png)
+  ![Alt text](image-6.png)
   oh, yaaayeee. You got it, your answer is correct 🥳. :-)
+
+
 
