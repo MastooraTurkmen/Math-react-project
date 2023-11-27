@@ -1,0 +1,9 @@
+All of these tasks involve conditional rendering — that is, using conditional logic to control what is and isn't rendered by the component, based on the current state(s) of the component.
+
+There are a number of ways you can approach conditional rendering in React:
+
+    - The logical AND (&&) operator
+    - The ternary operator
+    - Conditionally assigning JSX to a variable
+    
+Feel free to use any of them! Also, be sure to follow the tip about using the showStates function in the App component to familiarize yourself with the component's states and see how they can be used to accomplish the challenge. 
